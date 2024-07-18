@@ -1,0 +1,25 @@
+{
+    "name": "Zhumi",
+    "identifier": "cax.zhumi.theme",
+    "headerImage": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png",
+    "sections": [
+      {
+        "name": "Themes",
+        "identifier": "Themes"
+      }
+    ],
+    "packages": [
+      {
+        "name": "Example Package",
+        "identifier": "cax.zhumi.themeManager",
+        "section": "Themes",
+        "version": "1.6.1",
+        "author": "zhumi",
+        "description": "猪咪主题插件",
+        "depiction": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html",
+        "icon": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png",
+        "tintColor": "#FF5733"
+      }
+    ]
+  }
+  
