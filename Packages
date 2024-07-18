@@ -10,10 +10,10 @@ SHA1: f0a7a6c551ce69c81c437e3c83357d94e8ae4ab3
 SHA256: ecb1c9321427d40d844180c370205fa89b6cda72e86708c6c94e6153f4257f54
 Section: Themes
 Priority: optional
-Description: 关注公众号[猪咪小屋]
+Description: 关注公众号[猪咪屋]
 Author: zhumi
-Depiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html
-Icon: https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png
+Depiction: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/index.html
+Icon: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/Resources/icon.png
 Name: 猪咪
-Sileodepiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/sileo.json
+Sileodepiction: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/sileo.json
 
