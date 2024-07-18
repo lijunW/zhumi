@@ -18,7 +18,27 @@
         "description": "猪咪主题插件",
         "depiction": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html",
         "icon": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png",
-        "tintColor": "#FF5733"
+        "tintColor": "#FF5733",
+        "changelog": [
+          {
+            "version": "1.6.0",
+            "date": "2023-10-01",
+            "changes": [
+              "Initial release.",
+              "Initial release.",
+              "Added feature A.",
+              "Fixed bug B."
+            ]
+          },
+          {
+            "version": "1.6.1",
+            "date": "2024-06-11",
+            "changes": [
+              "Improved feature A.",
+              "Fixed bug C."
+            ]
+          }
+        ]
       }
     ]
   }
