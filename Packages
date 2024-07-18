@@ -4,16 +4,16 @@ Architecture: iphoneos-arm64
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm64_rootless.deb
-Size: 2841326
-MD5sum: 8f3296dd129a4d8ff83da5166f4b9556
-SHA1: f0a7a6c551ce69c81c437e3c83357d94e8ae4ab3
-SHA256: ecb1c9321427d40d844180c370205fa89b6cda72e86708c6c94e6153f4257f54
+Size: 2841700
+MD5sum: aff2b8b15bd9aa144a7e770456913fdf
+SHA1: 85ca721ecbb2566693c22735cb6b084269755d6d
+SHA256: ee0e1053bfc242571f643da02c47e61efa0250ee9dd6d492458a17fae44eacb7
 Section: Themes
 Priority: optional
 Description: 关注公众号[猪咪屋]
 Author: zhumi
-Depiction: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/index.html
-Icon: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/Resources/icon.png
+Depiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html
+Icon: https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png
 Name: 猪咪
-Sileodepiction: https://raw.githubusercontent.com/lijunW/zhumi/master/depic/ZhumiTheme/sileo.json
+Sileodepiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/sileo.json
 
