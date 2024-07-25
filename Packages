@@ -5,16 +5,16 @@ Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/ThemeManager.deb
-Size: 1916592
-MD5sum: ed8fbfab7e07ab007472564d8c949902
-SHA1: 985049424f8930eb00ca2b503ba3803f5b82193b
-SHA256: 6fac82d8d0bf12b9799779cfd8ad47eb3c868dffeb07d4f62040c4eaa0ef2822
+Size: 1917668
+MD5sum: 8a9fe3a8893774d33c718fbb27f49c61
+SHA1: 11978ab31e6c790161b9b9a6a349cd624aa88ad4
+SHA256: c0e582b6886a76a475b2eaf9210f4b1122dde35bff03271e85507fd1474e918e
 Section: 主题
 Priority: optional
 Description: 猪咪微信主题
 Author: zhumi
 Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
-Name: ThemeManager-1.6.1
+Name: ThemeManager
 Sileodepiction: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/sileo.json
 
 Package: cax.zhumi.ThemeManager.rootless
@@ -24,15 +24,15 @@ Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/ThemeManager_Rootless.deb
-Size: 1914480
-MD5sum: c38c4f1b65a1efa3696a8c73f6f2fbb7
-SHA1: fd95522d30d0225e032b90faea4e4feece132b39
-SHA256: b0224091ed8ed5b467f82a5c5cc00920070e2cca73c4395ccf8e5ea025724103
+Size: 1914960
+MD5sum: 25200f6ad426cb809f383d8074d47bc9
+SHA1: 086cd6e6a4c0ad5511e4c1879e895994c4b75fe2
+SHA256: 9d4a6a3e4d543a3450663d82b17bf8668c1ad4a1859b09825923a52a903ab492
 Section: 主题
 Priority: optional
 Description: 猪咪微信主题(无根越狱专用)(Rootless)
 Author: zhumi
 Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
-Name: ThemeManager-1.6.1-Rootless
+Name: ThemeManager-Rootless
 Sileodepiction: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/sileo.json
 
