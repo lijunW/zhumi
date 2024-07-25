@@ -58,7 +58,7 @@
                     "markdown": "无根越狱专用(Rootless)。\n\n- 支持Sileo商店\n- 支持Zebra商店\n- Cydia商店不可用，请安装正常越狱版"
                 },
                 {
-                    "class": "DepictionSeparatorView"
+                    "class": "DepictionSeparatorView",
                     "spacing": 10
                 },
                 {

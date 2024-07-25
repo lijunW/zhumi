@@ -58,7 +58,7 @@
                     "markdown": "完整越狱版插件(注：此版不是无根越狱，无根越狱请使用rootless版)。\n\n- 支持Sileo商店\n- 支持Zebra商店\n- 支持Cydia商店"
                 },
                 {
-                    "class": "DepictionSeparatorView"
+                    "class": "DepictionSeparatorView",
                     "spacing": 10
                 },
                 {
