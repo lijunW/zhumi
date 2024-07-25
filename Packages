@@ -17,20 +17,20 @@ Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon
 Name: ThemeManager-1.6.1
 Sileodepiction: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/sileo.json
 
-Package: cax.zhumi.ThemeManager
+Package: cax.zhumi.ThemeManager.rootless
 Version: 1.6.1
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm64_Rootless.deb
-Size: 1915192
-MD5sum: d86b8a37de2a6e54d0378fe58f77f85d
-SHA1: 053ed4c2e4f213cd1f63b2494950db25577e2fa9
-SHA256: b32ec523eeb8af427db7f37a4a22f02e9a16d13479eb8aca49743767b3a4336f
+Size: 1914480
+MD5sum: c38c4f1b65a1efa3696a8c73f6f2fbb7
+SHA1: fd95522d30d0225e032b90faea4e4feece132b39
+SHA256: b0224091ed8ed5b467f82a5c5cc00920070e2cca73c4395ccf8e5ea025724103
 Section: 主题
 Priority: optional
-Description: 猪咪微信主题
+Description: 猪咪微信主题(无根越狱专用)(Rootless)
 Author: zhumi
 Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
 Name: ThemeManager-1.6.1-Rootless
