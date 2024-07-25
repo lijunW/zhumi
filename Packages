@@ -4,16 +4,14 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
-Replaces: ThemeManager
-Provides: ThemeManager
 Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm.deb
-Size: 1919056
-MD5sum: 92a517470a7032b51c8f894c64777f69
-SHA1: cb780e1eed56e41021f451da8dd0d608cf2582a4
-SHA256: ae5472d999de0653532525a47fbfa2444793aac492f0d7efded1ed64aba51aea
+Size: 1916592
+MD5sum: ed8fbfab7e07ab007472564d8c949902
+SHA1: 985049424f8930eb00ca2b503ba3803f5b82193b
+SHA256: 6fac82d8d0bf12b9799779cfd8ad47eb3c868dffeb07d4f62040c4eaa0ef2822
 Section: 主题
 Priority: optional
-Description: 猪咪微信主题(无根越狱专用)(Rootless)
+Description: 猪咪微信主题
 Author: zhumi
 Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
 Name: ThemeManager-1.6.1
@@ -25,16 +23,14 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
-Replaces: ThemeManager
-Provides: ThemeManager
 Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm64_Rootless.deb
-Size: 1914228
-MD5sum: 5ce1216896a6b0c52cc4166a6e8c6885
-SHA1: cf75458ee0491ca5525c23d9448ee5edba92f8f3
-SHA256: 90987bc4186e2cb70ed5d536fc44c8467c142ad5544f78aabe4910714e2409ef
+Size: 1915192
+MD5sum: d86b8a37de2a6e54d0378fe58f77f85d
+SHA1: 053ed4c2e4f213cd1f63b2494950db25577e2fa9
+SHA256: b32ec523eeb8af427db7f37a4a22f02e9a16d13479eb8aca49743767b3a4336f
 Section: 主题
 Priority: optional
-Description: 猪咪微信主题(无根越狱专用)(Rootless)
+Description: 猪咪微信主题
 Author: zhumi
 Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
 Name: ThemeManager-1.6.1-Rootless
