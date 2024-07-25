@@ -5,5 +5,5 @@ Version: 1.0
 Codename: zhumi
 Architectures: iphoneos-arm64
 Components: main
-Description: zhumi's Cydia Repository
-Icon: file://MainIcon.jpg
+Description: zhumi's Repository
+Icon: https://lijunw.github.io/zhumi/MainIcon.jpg
