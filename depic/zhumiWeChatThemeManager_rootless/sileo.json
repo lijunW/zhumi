@@ -5,15 +5,46 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "简介",
+            "tabname": "Details",
             "views": [
                 {
                     "class": "DepictionHeaderView",
-                    "title": "猪咪微信主题(Rootless)"
+                    "title": "Description"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "版本 1.6.1"
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "猪咪微信主题(Rootless)(无根越狱专用)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "版本",
+                    "text": "1.6.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": " 猪咪"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "主题"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "13.0+"
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -31,7 +62,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "变更记录",
+            "tabname": "Changelog",
             "views": [
                 {
                     "class": "DepictionHeaderView",
