@@ -1,45 +1,135 @@
 {
-    "name": "猪咪",
-    "identifier": "cax.zhumi.repo",
-    "headerImage": "https://lijunw.github.io/zhumi/MainIcon.jpg",
-    "sections": [
-      {
-        "name": "微信主题(WeChatThemes)",
-        "identifier": "cax.zhumi.wechatThemes"
-      }
-    ],
-    "packages": [
-      {
-        "name": "猪咪主题",
-        "identifier": "cax.zhumi.themeManager",
-        "section": "Themes",
-        "version": "1.6.1",
-        "author": "zhumi",
-        "description": "猪咪主题插件",
-        "depiction": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html",
-        "icon": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.jpg",
-        "tintColor": "#FF5733",
-        "changelog": [
-          {
-            "version": "1.6.0",
-            "date": "2023-10-01",
-            "changes": [
-              "Initial release.",
-              "Initial release.",
-              "Added feature A.",
-              "Fixed bug B."
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resource/SileoHeader.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Join Our Discord!",
+                    "action": "",
+                    "openExternal": true,
+                    "tintColor": "#7289da"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "猪咪微信主题(无根越狱专用)(Rootless)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.6.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": " 猪咪"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "主题"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Downloads",
+                    "text": ""
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "13.0+"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
             ]
-          },
-          {
-            "version": "1.6.1",
-            "date": "2024-05-30",
-            "changes": [
-              "Improved feature A.",
-              "Fixed bug C."
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
             ]
-          }
-        ]
-      }
+        }
     ]
-  }
-  
+}
