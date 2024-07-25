@@ -1,39 +1,21 @@
-Package: ThemeManager
+Package: cax.zhumi.ThemeManager
 Version: 1.6.1
 Architecture: iphoneos-arm64
 Essential: no
-Maintainer: zhumi <MustangYM@yeah.net>
-Depends: mobilesubstrate
+Maintainer: zhumi <850594374@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: ThemeManager
 Replaces: ThemeManager
 Provides: ThemeManager
-Filename: ./debs/ThemeManager-iphoneos-arm64_Rootless.deb
-Size: 1914652
-MD5sum: d45be6b85ffb42a8b7243a57fc26bd63
-SHA1: 6e0fe29e99b84296a11d7dcee97284b6a2a8d408
-SHA256: 1793d464a38a62f1d10ee585e744d65479ced927ed246d1c146d72c3bb28721a
-Section: custom
+Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm64_Rootless.deb
+Size: 1914940
+MD5sum: 52b7b176ea6b641527832c573e8ca22a
+SHA1: 8fac42fbbf142c6c9549d21ad6af6aeffe8e5671
+SHA256: a21486f9c9afea40c7712e1916145563edbf3c4da7bcbb88b58da72ac17dff04
+Section: 主题
 Priority: optional
-Description: Be a hero
+Description: 猪咪微信主题(无根越狱专用)(Rootless)
 Author: zhumi
 Name: ThemeManager-1.6.1-Rootless
-
-Package: cax.zhumi.themeManager
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: zhumi
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm64_rootless.deb.bak.deb
-Size: 2841700
-MD5sum: aff2b8b15bd9aa144a7e770456913fdf
-SHA1: 85ca721ecbb2566693c22735cb6b084269755d6d
-SHA256: ee0e1053bfc242571f643da02c47e61efa0250ee9dd6d492458a17fae44eacb7
-Section: Themes
-Priority: optional
-Description: 关注公众号[猪咪屋]
-Author: zhumi
-Depiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html
-Icon: https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png
-Name: 猪咪
 Sileodepiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/sileo.json
 

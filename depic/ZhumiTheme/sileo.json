@@ -1,23 +1,23 @@
 {
-    "name": "Zhumi",
-    "identifier": "cax.zhumi.theme",
-    "headerImage": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png",
+    "name": "猪咪",
+    "identifier": "cax.zhumi.repo",
+    "headerImage": "https://lijunw.github.io/zhumi/MainIcon.jpg",
     "sections": [
       {
-        "name": "Themes",
-        "identifier": "Themes"
+        "name": "微信主题(WeChatThemes)",
+        "identifier": "cax.zhumi.wechatThemes"
       }
     ],
     "packages": [
       {
-        "name": "Example Package",
+        "name": "猪咪主题",
         "identifier": "cax.zhumi.themeManager",
         "section": "Themes",
         "version": "1.6.1",
         "author": "zhumi",
         "description": "猪咪主题插件",
         "depiction": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/index.html",
-        "icon": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.png",
+        "icon": "https://lijunw.github.io/zhumi/depic/ZhumiTheme/Resources/icon.jpg",
         "tintColor": "#FF5733",
         "changelog": [
           {
@@ -32,7 +32,7 @@
           },
           {
             "version": "1.6.1",
-            "date": "2024-06-11",
+            "date": "2024-05-30",
             "changes": [
               "Improved feature A.",
               "Fixed bug C."
