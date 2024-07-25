@@ -5,11 +5,11 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "详情",
             "views": [
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Description"
+                    "title": "简介"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -21,7 +21,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Package Info"
+                    "title": "插件信息"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -59,26 +59,23 @@
                 },
                 {
                     "class": "DepictionSeparatorView"
+                    "spacing": 10
                 },
                 {
-                    "class": "DepictionTableButtonView",
-                    "title": "公众号",
-                    "action": "[猪咪屋] [猪咪小屋]"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "微信公众号：[猪咪屋] [猪咪小屋]",
+                    "useSpacing": true
                 }
-
             ]
         },
         {
             "class": "DepictionStackView",
-            "tabname": "Changelog",
+            "tabname": "更新记录",
             "views": [
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。",
                     "useSpacing": true
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSpacerView",
