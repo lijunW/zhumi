@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm.deb
+Filename: ./debs/ThemeManager.deb
 Size: 1916592
 MD5sum: ed8fbfab7e07ab007472564d8c949902
 SHA1: 985049424f8930eb00ca2b503ba3803f5b82193b
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm64_Rootless.deb
+Filename: ./debs/ThemeManager_Rootless.deb
 Size: 1914480
 MD5sum: c38c4f1b65a1efa3696a8c73f6f2fbb7
 SHA1: fd95522d30d0225e032b90faea4e4feece132b39

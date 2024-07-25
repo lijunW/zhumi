@@ -4,6 +4,7 @@
     "tintColor": "#007AFF",
     "tabs": [
         {
+            "class": "DepictionStackView",
             "tabname": "简介",
             "views": [
                 {
@@ -29,6 +30,7 @@
             ]
         },
         {
+            "class": "DepictionStackView",
             "tabname": "变更记录",
             "views": [
                 {
