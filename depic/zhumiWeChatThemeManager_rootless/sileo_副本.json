@@ -1,7 +1,7 @@
 {
-    "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "http://mi-zhu.com/depic/zhumiWeChatThemeManager_rootless/Resources/SileoHeader.png",
+    "tintColor": "#007AFF",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "猪咪微信主题(无根越狱专用)(Rootless)",
+                    "markdown": "猪咪微信主题(Rootless)(无根越狱专用)",
                     "useSpacing": true
                 },
                 {
@@ -28,7 +28,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Version",
+                    "title": "版本",
                     "text": "1.6.1"
                 },
                 {
@@ -47,13 +47,6 @@
                     "text": "13.0+"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 10
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "无根越狱专用(Rootless)。\n\n- 支持Sileo商店\n- 支持Zebra商店\n- Cydia商店不可用，请安装正常越狱版"
                 },
@@ -65,7 +58,6 @@
                     "title": "公众号",
                     "action": "[猪咪屋] [猪咪小屋]"
                 }
-
             ]
         },
         {
@@ -73,16 +65,12 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "更新日志"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。",
-                    "useSpacing": true
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 10
+                    "markdown": "### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。"
                 }
             ]
         }
