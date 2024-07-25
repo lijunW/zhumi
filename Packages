@@ -1,9 +1,29 @@
+Package: ThemeManager
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: zhumi <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemeManager
+Replaces: ThemeManager
+Provides: ThemeManager
+Filename: ./debs/ThemeManager-iphoneos-arm64_Rootless.deb
+Size: 1914652
+MD5sum: d45be6b85ffb42a8b7243a57fc26bd63
+SHA1: 6e0fe29e99b84296a11d7dcee97284b6a2a8d408
+SHA256: 1793d464a38a62f1d10ee585e744d65479ced927ed246d1c146d72c3bb28721a
+Section: custom
+Priority: optional
+Description: Be a hero
+Author: zhumi
+Name: ThemeManager-1.6.1-Rootless
+
 Package: cax.zhumi.themeManager
 Version: 1.6.1
 Architecture: iphoneos-arm64
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm64_rootless.deb
+Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm64_rootless.deb.bak.deb
 Size: 2841700
 MD5sum: aff2b8b15bd9aa144a7e770456913fdf
 SHA1: 85ca721ecbb2566693c22735cb6b084269755d6d
