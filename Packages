@@ -1,0 +1,38 @@
+Package: cax.zhumi.ThemeManager
+Version: 1.6.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/ThemeManager.deb
+Size: 1917128
+MD5sum: da09c317c0e774b203cc8117ccb27305
+SHA1: 1a114b4ee8d16b0539ebe9ff037d7ee9c6b25460
+SHA256: eddc4097be9bc0298d55397d1b03d40a7800ba12f6474fe269ed6a4ab01cf876
+Section: 主题
+Priority: optional
+Description: 猪咪微信主题
+Author: zhumi
+Icon: http://mi-zhu.com/depic/zhumiWeChatThemeManager/Resources/Icon.png
+Name: ThemeManager
+Sileodepiction: http://mi-zhu.com/depic/zhumiWeChatThemeManager/sileo.json
+
+Package: cax.zhumi.ThemeManager.rootless
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/ThemeManager_Rootless.deb
+Size: 1915092
+MD5sum: 4571dc7d29bb603eba198a38d2cac59e
+SHA1: c831f029dca9f088f29f653ea41ce0a8b753394a
+SHA256: f188e0aa4b676f888ffef2d0ea2b6279339f3fbba9e29403b9a0f51a770766bf
+Section: 主题
+Priority: optional
+Description: 猪咪微信主题(无根越狱专用)(Rootless)
+Author: zhumi
+Icon: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/Resource/Icon.png
+Name: ThemeManager-Rootless
+Sileodepiction: https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager/sileo.json
+
