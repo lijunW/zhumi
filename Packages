@@ -8,14 +8,15 @@ Conflicts: ThemeManager
 Replaces: ThemeManager
 Provides: ThemeManager
 Filename: ./debs/ThemeManager-1.6.1-iphoneos-arm64_Rootless.deb
-Size: 1914940
-MD5sum: 52b7b176ea6b641527832c573e8ca22a
-SHA1: 8fac42fbbf142c6c9549d21ad6af6aeffe8e5671
-SHA256: a21486f9c9afea40c7712e1916145563edbf3c4da7bcbb88b58da72ac17dff04
+Size: 1914256
+MD5sum: a18cfc809399378d45739acd9cf6e774
+SHA1: e5307c72ed2c84800be1cf0d10371c426f7b9116
+SHA256: 63e65fdbaacd6b6f00509af0f3419e8ed245e1c08ce86a65b84e8db26d712a1a
 Section: 主题
 Priority: optional
 Description: 猪咪微信主题(无根越狱专用)(Rootless)
 Author: zhumi
+Icon: https://lijunw.github.io/zhumi/depic/ZhumiTheme/Icon.png
 Name: ThemeManager-1.6.1-Rootless
 Sileodepiction: https://lijunw.github.io/zhumi/depic/ZhumiTheme/sileo.json
 

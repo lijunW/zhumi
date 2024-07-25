@@ -6,4 +6,4 @@ Codename: zhumi
 Architectures: iphoneos-arm64
 Components: main
 Description: zhumi's Repository
-Icon: https://lijunw.github.io/zhumi/MainIcon.jpg
+Icon: file://CydiaIcon.png
