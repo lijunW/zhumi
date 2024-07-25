@@ -1,0 +1,45 @@
+{
+    "minVersion": "1.0",
+    "headerImage": "https://lijunw.github.io/zhumi/depic/zhumiWeChatThemeManager_rootless/Resource/SileoHeader.png",
+    "tintColor": "#007AFF",
+    "tabs": [
+        {
+            "tabname": "简介",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "猪咪微信主题(Rootless)"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "版本 1.6.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "无根越狱专用(Rootless)。\n\n- 支持Sileo商店\n- 支持Zebra商店\n- Cydia商店不可用，请安装正常越狱版"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "公众号",
+                    "action": "[猪咪屋] [猪咪小屋]"
+                }
+            ]
+        },
+        {
+            "tabname": "变更记录",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "更新日志"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。"
+                }
+            ]
+        }
+    ]
+}
