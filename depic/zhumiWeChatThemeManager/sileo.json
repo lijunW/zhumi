@@ -29,7 +29,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.6.1"
+                    "text": "1.6.2"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -74,7 +74,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。",
+                    "markdown": "### 1.6.2\n-  适配iPhone1系列。\n### 1.6.1\n-  支持无根越狱。\n### 1.6.0\n- 添加了新功能。\n- 修复了一些错误。",
                     "useSpacing": true
                 },
                 {
