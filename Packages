@@ -1,14 +1,14 @@
 Package: cax.zhumi.ThemeManager
-Version: 1.6.2
+Version: 1.6.6
 Architecture: iphoneos-arm
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/ThemeManager-iphoneos-arm.deb
-Size: 1944772
-MD5sum: 420f3d5443e275df6925781b62b5506d
-SHA1: 0a1c7e11563f770265c79a57c9064224fe5da2bd
-SHA256: 009e0e15bd4e11e20355acc69deae316d3f28b686d3fefae96c701e510b33af8
+Size: 1969016
+MD5sum: 27cc160ef2ca2ba69ffa054fc21d764b
+SHA1: 712baeb0acecacaef4773c63591b9163dc8a0215
+SHA256: 6112547cf9bd00df388314e0a1afbd7eb5421f771c8954a06edf84f4f56dba88
 Section: 主题
 Priority: optional
 Description: 猪咪微信主题
@@ -18,16 +18,16 @@ Name: ThemeManager
 Sileodepiction: http://mi-zhu.com/depic/zhumiWeChatThemeManager/sileo.json
 
 Package: cax.zhumi.ThemeManager.rootless
-Version: 1.6.2
+Version: 1.6.6
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: zhumi
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/ThemeManager-iphoneos-arm-iphoneos-arm64_Rootless.deb
-Size: 1941104
-MD5sum: 6efc3d577e4674abfc28768cc24cd505
-SHA1: cb3b6b7a4409bb2d2289dd9f27885a1d8874e8f4
-SHA256: 54eca4c55cb20915609141c40bda87786fceb6ce2d5adb9cd409625baad179e3
+Size: 1967020
+MD5sum: 1029d003f67d178ec6c81a8c3a31eb7d
+SHA1: d72ee945abeacc67a5abedc2f2016c02d0b97b9e
+SHA256: 1e6967f5fa46cde220e7a4661a88d564b9b06f8d74d3395861b4443baa626652
 Section: 主题
 Priority: optional
 Description: 猪咪微信主题(无根越狱专用)(Rootless)
